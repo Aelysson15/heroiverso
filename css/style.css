@@ -18529,6 +18529,12 @@ h6, .h6 {
 .navbar .navbar-toggler-icon {
   height: auto;
 }
+@media (max-width: 991px) {
+  h2 {
+      font-size: 1.1rem;
+      font-weight: 700;
+  }
+}
 
 @media (max-width: 991px) {
   .navbar .navbar-collapse {
